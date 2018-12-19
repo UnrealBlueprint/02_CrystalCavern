@@ -25,3 +25,15 @@ Create a new project with empty level, ready for development
 **After watching (learning outcomes)…**
 
 Add lights and use precomputed or dynamic lighting
+
+### 3 Point Lights, Spot Lights & Sky Lights ###
+
+**In this video (objectives)…**
+
+1. Learn how to add different light actors
+1. Learn how to adjust light properties
+1. Learn how to use Sky Lights
+
+**After watching (learning outcomes)…**
+
+Learn how to use the different light actors in Unreal
