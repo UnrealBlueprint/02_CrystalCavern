@@ -37,3 +37,15 @@ Add lights and use precomputed or dynamic lighting
 **After watching (learning outcomes)…**
 
 Learn how to use the different light actors in Unreal
+
+### 4 Blueprint Actor Class ###
+
+**In this video (objectives)…**
+
+1. Learn how to create a blueprint actor
+1. Learn how to add components to a blueprint actor
+1. Learn how to affect the transform of blueprint components
+
+**After watching (learning outcomes)…**
+
+Learn how to create blueprint actors
