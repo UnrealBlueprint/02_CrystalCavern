@@ -49,3 +49,15 @@ Learn how to use the different light actors in Unreal
 **After watching (learning outcomes)…**
 
 Learn how to create blueprint actors
+
+### 5 Player Pawn ###
+
+**In this video (objectives)…**
+
+1. Learn how to create a blueprint pawn
+1. Learn how to add camera components to a pawn
+1. Learn how to change component hierarchy
+
+**After watching (learning outcomes)…**
+
+Learn how to create blueprint pawns
