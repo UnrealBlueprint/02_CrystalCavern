@@ -61,3 +61,15 @@ Learn how to create blueprint actors
 **After watching (learning outcomes)…**
 
 Learn how to create blueprint pawns
+
+### 6 Controllers & Possession ###
+
+**In this video (objectives)…**
+
+1. Learn what a player controller is
+1. Learn how to possess a pawn
+1. Learn how to adjust the player camera
+
+**After watching (learning outcomes)…**
+
+Learn how to possess a pawn
