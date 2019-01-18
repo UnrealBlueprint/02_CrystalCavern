@@ -73,3 +73,15 @@ Learn how to create blueprint pawns
 **After watching (learning outcomes)…**
 
 Learn how to possess a pawn
+
+### 7 Game Mode Blueprint Class ###
+
+**In this video (objectives)…**
+
+1. Learn how to spawn at the player start
+1. Learn how to change the default pawn to spawn as
+1. Learn how to create a game mode blueprint class
+
+**After watching (learning outcomes)…**
+
+Learn how to create a game mode blueprint class
