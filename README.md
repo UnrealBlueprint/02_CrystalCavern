@@ -85,3 +85,15 @@ Learn how to possess a pawn
 **After watching (learning outcomes)…**
 
 Learn how to create a game mode blueprint class
+
+### 8 Applying Physics to Player Pawn ###
+
+**In this video (objectives)…**
+
+1. Learn how to apply physics to the player pawn
+1. Learn how to fix camera issues when physics are applied
+1. Learn how components handle relative transforms
+
+**After watching (learning outcomes)…**
+
+Learn how to apply physics to the player pawn
