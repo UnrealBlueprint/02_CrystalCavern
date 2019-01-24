@@ -97,3 +97,15 @@ Learn how to create a game mode blueprint class
 **After watching (learning outcomes)…**
 
 Learn how to apply physics to the player pawn
+
+### 9 Event Graphs & Input Mappings ###
+
+**In this video (objectives)…**
+
+1. Learn differences between level blueprint and class blueprint event graphs
+1. Learn how to create where to add input mappings
+1. Learn how to add axis bindings to input mappings
+
+**After watching (learning outcomes)…**
+
+Learn how to create input mappings for your game
