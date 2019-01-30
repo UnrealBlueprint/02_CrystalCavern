@@ -109,3 +109,15 @@ Learn how to apply physics to the player pawn
 **After watching (learning outcomes)…**
 
 Learn how to create input mappings for your game
+
+### 10 Adding Torque ###
+
+**In this video (objectives)…**
+
+1. Learn how how to add torque to a mesh simulating physics
+1. Learn how to discover the torque direction
+1. Learn how to add a stronger torque
+
+**After watching (learning outcomes)…**
+
+Learn how to add torque to meshes simulating physics
