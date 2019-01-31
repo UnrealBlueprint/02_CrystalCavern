@@ -121,3 +121,15 @@ Learn how to create input mappings for your game
 **After watching (learning outcomes)…**
 
 Learn how to add torque to meshes simulating physics
+
+### 11 Blueprint Variables ###
+
+**In this video (objectives)…**
+
+1. Learn how to avoid magic numbers
+1. Learn how to create blueprint variables
+1. Learn how to apply blueprint variables in your code
+
+**After watching (learning outcomes)…**
+
+Learn how to create and use blueprint variables
