@@ -133,3 +133,15 @@ Learn how to add torque to meshes simulating physics
 **After watching (learning outcomes)…**
 
 Learn how to create and use blueprint variables
+
+### 12 BSP Extrude ###
+
+**In this video (objectives)…**
+
+1. Learn how to create more complex BSP designs
+1. Learn how to use BSP extrude
+1. Learn how to disable spring arm collision
+
+**After watching (learning outcomes)…**
+
+Learn how to use BSP extruding
