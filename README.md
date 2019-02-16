@@ -145,3 +145,15 @@ Learn how to create and use blueprint variables
 **After watching (learning outcomes)…**
 
 Learn how to use BSP extruding
+
+### 13 Custom Box Trigger Blueprint ###
+
+**In this video (objectives)…**
+
+1. Learn how to create your own box trigger with custom logic
+1. Learn how to get the player pawn in blueprints
+1. Learn how to restart the level using the current level name
+
+**After watching (learning outcomes)…**
+
+Learn how to create your own box trigger with custom logic
