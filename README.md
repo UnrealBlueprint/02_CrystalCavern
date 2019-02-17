@@ -157,3 +157,15 @@ Learn how to use BSP extruding
 **After watching (learning outcomes)…**
 
 Learn how to create your own box trigger with custom logic
+
+### 14 Player Camera Manager ###
+
+**In this video (objectives)…**
+
+1. Learn about the player camera manager
+1. Learn how to fade the camera in and out from blueprints
+1. Learn how to use literal floats
+
+**After watching (learning outcomes)…**
+
+Learn how to fade the camera out using the player camera manager
