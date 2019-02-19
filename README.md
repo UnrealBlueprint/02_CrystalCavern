@@ -169,3 +169,15 @@ Learn how to create your own box trigger with custom logic
 **After watching (learning outcomes)…**
 
 Learn how to fade the camera out using the player camera manager
+
+### 15 Emissive Material ###
+
+**In this video (objectives)…**
+
+1. Learn how to create a material in unreal engine 4
+1. Learn how to make materials glow
+1. Learn how to organise your assets in the content browser
+
+**After watching (learning outcomes)…**
+
+Learn how to create a material that glows in unreal engine 4
