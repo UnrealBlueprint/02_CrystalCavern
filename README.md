@@ -181,3 +181,15 @@ Learn how to fade the camera out using the player camera manager
 **After watching (learning outcomes)…**
 
 Learn how to create a material that glows in unreal engine 4
+
+### 16 Destroying Actors on Overlap ###
+
+**In this video (objectives)…**
+
+1. Learn how to give the illusion that the player collects an actor
+1. Learn how to delete actors at runtime
+1. Learn how to destroy actors based on who/what causes an overlap
+
+**After watching (learning outcomes)…**
+
+Learn how to give the illusion that the player collects an actor by deleting it at runtime.
