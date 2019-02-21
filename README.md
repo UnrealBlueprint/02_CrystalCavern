@@ -193,3 +193,15 @@ Learn how to create a material that glows in unreal engine 4
 **After watching (learning outcomes)…**
 
 Learn how to give the illusion that the player collects an actor by deleting it at runtime.
+
+### 17 Timelines ###
+
+**In this video (objectives)…**
+
+1. Learn how to use blueprint timelines
+1. Learn how to move an actor between two points over time
+1. Learn how to use the linear interpolate node
+
+**After watching (learning outcomes)…**
+
+Learn how to move an actor smoothly between two points by using a lerp node and a blueprint timeline
