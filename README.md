@@ -205,3 +205,15 @@ Learn how to give the illusion that the player collects an actor by deleting it 
 **After watching (learning outcomes)…**
 
 Learn how to move an actor smoothly between two points by using a lerp node and a blueprint timeline
+
+### 18 Blueprint Functions ###
+
+**In this video (objectives)…**
+
+1. Learn about a core principal of object oriented programming: Encapsulation
+1. Learn about blueprints functions
+1. Learn how to how to encapsulate your code into blueprint functions
+
+**After watching (learning outcomes)…**
+
+Learn how to encapsulate your code into blueprint functions
