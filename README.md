@@ -217,3 +217,15 @@ Learn how to move an actor smoothly between two points by using a lerp node and 
 **After watching (learning outcomes)…**
 
 Learn how to encapsulate your code into blueprint functions
+
+### 19 Multiple Timeline Tracks ###
+
+**In this video (objectives)…**
+
+1. Learn to create multiple timeline tracks
+1. Learn how to execute multiple behaviors for a blueprint class using a single timeline
+1. Learn how to make unique behaviors timeline tracks
+
+**After watching (learning outcomes)…**
+
+Learn how to create multiple unique timeline tracks
