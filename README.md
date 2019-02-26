@@ -229,3 +229,15 @@ Learn how to encapsulate your code into blueprint functions
 **After watching (learning outcomes)…**
 
 Learn how to create multiple unique timeline tracks
+
+### 20 Blueprint Macros ###
+
+**In this video (objectives)…**
+
+1. Learn an alternative way to encapsulate your blueprint code
+1. Learn how to create blueprint macros
+1. Learn how to add multiple execution pins on a macro
+
+**After watching (learning outcomes)…**
+
+Learn how to create and use blueprint macros
