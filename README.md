@@ -241,3 +241,15 @@ Learn how to create multiple unique timeline tracks
 **After watching (learning outcomes)…**
 
 Learn how to create and use blueprint macros
+
+### 21 Projectiles ###
+
+**In this video (objectives)…**
+
+1. Learn how to add and use the projectile movement component
+1. Learn how to disable gravity for a projectile actor
+1. Learn how to adjust the speed of a projectile in cm/s
+
+**After watching (learning outcomes)…**
+
+Learn how to create a projectile actor
