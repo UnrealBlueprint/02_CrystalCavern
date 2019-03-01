@@ -253,3 +253,15 @@ Learn how to create and use blueprint macros
 **After watching (learning outcomes)…**
 
 Learn how to create a projectile actor
+
+### 22 Importing FBX files ###
+
+**In this video (objectives)…**
+
+1. Learn about fbx files
+1. Learn how to import fbx files
+1. Learn how to adjust fbx import file settings
+
+**After watching (learning outcomes)…**
+
+Learn how import fbx files into unreal engine 4
