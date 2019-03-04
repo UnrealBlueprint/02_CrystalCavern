@@ -265,3 +265,15 @@ Learn how to create a projectile actor
 **After watching (learning outcomes)…**
 
 Learn how import fbx files into unreal engine 4
+
+### 23 Spawning Actors ###
+
+**In this video (objectives)…**
+
+1. Learn how to spawn actors dynamically at runtime
+1. Learn how to use an arrow component as a spawn point
+1. Learn how to use blueprint re-route nodes
+
+**After watching (learning outcomes)…**
+
+Learn how spawn actors dynamically at runtime in Unreal Engine 4
