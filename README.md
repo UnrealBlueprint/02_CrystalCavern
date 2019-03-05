@@ -277,3 +277,15 @@ Learn how import fbx files into unreal engine 4
 **After watching (learning outcomes)…**
 
 Learn how spawn actors dynamically at runtime in Unreal Engine 4
+
+### 24 Exposing Blueprint Variables ###
+
+**In this video (objectives)…**
+
+1. Learn how to expose blueprint variables
+1. Learn how to add your blueprint variables to a category
+1. Learn how to restrict the values for your blueprint variables
+
+**After watching (learning outcomes)…**
+
+Learn how to expose blueprint variables
