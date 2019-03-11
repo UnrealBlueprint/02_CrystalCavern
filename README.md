@@ -289,3 +289,15 @@ Learn how spawn actors dynamically at runtime in Unreal Engine 4
 **After watching (learning outcomes)…**
 
 Learn how to expose blueprint variables
+
+### 25 Animating Meshes with Timelines ###
+
+**In this video (objectives)…**
+
+1. Learn how to animate a mesh with a timeline
+1. Learn how to create event tracks
+1. Learn how to add additional output pins to timelines by making use of event tracks
+
+**After watching (learning outcomes)…**
+
+Learn how to animate meshes with timelines
