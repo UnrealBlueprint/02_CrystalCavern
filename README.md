@@ -301,3 +301,15 @@ Learn how to expose blueprint variables
 **After watching (learning outcomes)…**
 
 Learn how to animate meshes with timelines
+
+### 26 Applying Damage ###
+
+**In this video (objectives)…**
+
+1. Learn about unreal engine 4's damage system
+1. Learn how to implement functions for causing damage to actors
+1. Learn how to implement events for actors receiving damage
+
+**After watching (learning outcomes)…**
+
+Learn how to cause damage using UE4's damage system
