@@ -313,3 +313,15 @@ Learn how to animate meshes with timelines
 **After watching (learning outcomes)…**
 
 Learn how to cause damage using UE4's damage system
+
+### 27 Collapsing Blueprint Code ###
+
+**In this video (objectives)…**
+
+1. Learn how to avoid repeating code
+1. Learn how to collapse blueprint code into a node/graph
+1. Learn how to collapse blueprint code into a macro
+
+**After watching (learning outcomes)…**
+
+Learn how to avoid repeating code and how to collapse code to stay organised
