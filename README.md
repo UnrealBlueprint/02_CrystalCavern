@@ -325,3 +325,15 @@ Learn how to cause damage using UE4's damage system
 **After watching (learning outcomes)…**
 
 Learn how to avoid repeating code and how to collapse code to stay organised
+
+### 28 Macro Libraries ###
+
+**In this video (objectives)…**
+
+1. Learn how to avoid creating the same macros across multiple blueprints
+1. Learn how to create a macro library
+1. Learn how to create macros inside a macro library
+
+**After watching (learning outcomes)…**
+
+Learn how to create macros inside a macro library
