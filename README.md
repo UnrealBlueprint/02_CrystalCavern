@@ -337,3 +337,15 @@ Learn how to avoid repeating code and how to collapse code to stay organised
 **After watching (learning outcomes)…**
 
 Learn how to create macros inside a macro library
+
+### 29 Get All Actors Of Class ###
+
+**In this video (objectives)…**
+
+1. Learn how to get all actors that exist in your level by class
+1. Learn about arrays
+1. Learn how to get the length of an array
+
+**After watching (learning outcomes)…**
+
+Learn how to get all actors of a particular class in blueprints
