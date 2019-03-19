@@ -349,3 +349,15 @@ Learn how to create macros inside a macro library
 **After watching (learning outcomes)…**
 
 Learn how to get all actors of a particular class in blueprints
+
+### 30 Pure & Impure Functions ###
+
+**In this video (objectives)…**
+
+1. Learn the difference between pure & impure functions
+1. Learn how to create pure blueprint functions
+1. Learn how to create pure const blueprint functions
+
+**After watching (learning outcomes)…**
+
+Learn the difference between pure & impure functions
