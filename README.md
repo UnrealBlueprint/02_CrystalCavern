@@ -361,3 +361,15 @@ Learn how to get all actors of a particular class in blueprints
 **After watching (learning outcomes)…**
 
 Learn the difference between pure & impure functions
+
+### 31 Working With Arrays ###
+
+**In this video (objectives)…**
+
+1. Learn how to create an array
+1. Learn how to get the index of an element in an array
+1. Learn how to get an element from an array via an index
+
+**After watching (learning outcomes)…**
+
+Learn how to create and work with arrays in blueprints
