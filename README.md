@@ -373,3 +373,15 @@ Learn the difference between pure & impure functions
 **After watching (learning outcomes)…**
 
 Learn how to create and work with arrays in blueprints
+
+### 32 Casting & Section Wrap Up ###
+
+**In this video (objectives)…**
+
+1. Learn how to cast in blueprints
+1. Learn how to apply damping
+1. Section Review
+
+**After watching (learning outcomes)…**
+
+Learn how to cast in blueprints
